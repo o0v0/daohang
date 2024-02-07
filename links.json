@@ -30,6 +30,12 @@
         "desc": "智障少年蠢菇。",
         "logo": "https://img2.imgtp.com/2024/02/07/cIzlxeW8.png"
       },
+      {
+        "name": "Photograph",
+        "href": "https://photo.siitake.cn/",
+        "desc": "演示站、售卖头发…",
+        "logo": "./src/favicon.png"
+      }
     ]
   }
 ]
